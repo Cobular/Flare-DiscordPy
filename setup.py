@@ -15,7 +15,7 @@ setup(
     author="Cobular",
     author_email="python@cobular.com",
     license="MIT",
-    packages=["Flare"],
+    packages=["flare"],
     install_requires=["discord.py>=1.5.0,<1.7.0"],
     zip_safe=False,
     classifiers=[
