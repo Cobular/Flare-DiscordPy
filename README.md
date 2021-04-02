@@ -1,7 +1,8 @@
-# Flare
-An easy-to-use, dead-simple cog to add a tiny, simple, fast webpage to your bot in order to enable uptime monitoring with something like UptimeRobot.
+<h1 align="center"><img src="https://github.com/JakeCover/Flare-DiscordPy/blob/master/flare_logo.png" width=24> Flare</h1>
 
-Heavily inspired (read: mostly taken) from this StackOverflow answer: https://stackoverflow.com/a/62481294/5623598. Thanks random internet person!!
+<p align="center">An easy-to-use, dead-simple cog to add a tiny, simple, fast webpage to your bot in order to enable uptime monitoring with something like UptimeRobot.</p>
+
+Heavily inspired from this StackOverflow answer: https://stackoverflow.com/a/62481294/5623598. Thanks random internet person!!
 
 
 ## Usage
