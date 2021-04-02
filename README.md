@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/JakeCover/Flare-DiscordPy/blob/main/flare_logo.png" width=24> Flare</h1>
+<h1 align="center"><img src="https://github.com/JakeCover/Flare-DiscordPy/blob/main/flare_logo.png" width=128> Flare</h1>
 
 <p align="center">An easy-to-use, dead-simple cog to add a tiny, simple, fast webpage to your bot in order to enable uptime monitoring with something like UptimeRobot.</p>
 
